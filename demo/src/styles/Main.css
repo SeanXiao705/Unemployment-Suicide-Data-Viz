@@ -1,0 +1,106 @@
+svg {
+    background: none;
+    margin-left: 10px;
+}
+
+/* path:hover {
+    opacity: 0.7;
+} */
+
+.row {
+    margin-top: 10px;
+}
+h3 {
+    /* font-family: Courier; */
+    font-weight: 500;
+    font-size: 3rem;
+    color: #fff;
+    line-height: 1;
+    max-width: 800px;
+    /* margin-left: -3px; */
+}
+
+p {
+    font-size: 18px;
+    color: #e6e6e6;
+    text-align:left;
+    margin-left: 20px;
+}
+
+#map {
+    margin: 20px;
+}
+
+#intro{
+    /* margin-left: -30px; */
+    margin-bottom: 25px;    
+}
+
+#mapTitle, #webTitle {
+    /* margin-left: -45px; */
+    margin-bottom: 25px;
+    color: #fff;
+}
+
+#mapDesc {
+    padding-top: 25px;
+    margin-top: 25px;
+}
+
+#bar1Desc {
+    margin-top: 100px;
+    padding-top: 30px;
+}
+#bar2Desc {
+    margin-top: 70px;
+    padding-top: 30px;
+}
+
+#scatterDesc {
+    margin-top: 120px;
+    padding-top: 30px;    
+}
+
+#zoomDesc {
+    margin-top: 80px;
+    padding-top: 30px;        
+}
+
+#chartTag {
+    /* margin-left: -25px; */
+    margin-bottom: 40px;
+    margin-top: 20px;
+}
+
+#orange {
+    color: #fd8d3c;
+}
+
+#blue {
+    color: #6aaed6;
+}
+
+#green {
+    color: #429660;
+}
+
+#purple {
+    color: #513480;
+}
+
+#brown {
+    color: #9c5f30;
+}
+
+#navy {
+    color: #1b49dd;
+}
+
+#zoomable_circle_year text{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#plotLabel {
+    font-size : 12px;
+}

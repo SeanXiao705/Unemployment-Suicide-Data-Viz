@@ -1,0 +1,1202 @@
+[
+  {
+    "unemployment_rate": 7.92,
+    "year": 2014,
+    "state": "AL",
+    "state_full_name": "Alabama",
+    "death_rate": 14.5,
+    "death_num": 715
+  },
+  {
+    "unemployment_rate": 7.03,
+    "year": 2015,
+    "state": "AL",
+    "state_full_name": "Alabama",
+    "death_rate": 14.9,
+    "death_num": 750
+  },
+  {
+    "unemployment_rate": 6.77,
+    "year": 2016,
+    "state": "AL",
+    "state_full_name": "Alabama",
+    "death_rate": 15.7,
+    "death_num": 788
+  },
+  {
+    "unemployment_rate": 7.3,
+    "year": 2014,
+    "state": "AK",
+    "state_full_name": "Alaska",
+    "death_rate": 25.4,
+    "death_num": 189
+  },
+  {
+    "unemployment_rate": 7.01,
+    "year": 2015,
+    "state": "AK",
+    "state_full_name": "Alaska",
+    "death_rate": 24.8,
+    "death_num": 188
+  },
+  {
+    "unemployment_rate": 6.3,
+    "year": 2016,
+    "state": "AK",
+    "state_full_name": "Alaska",
+    "death_rate": 25.8,
+    "death_num": 193
+  },
+  {
+    "unemployment_rate": 9.47,
+    "year": 2014,
+    "state": "AZ",
+    "state_full_name": "Arizona",
+    "death_rate": 18,
+    "death_num": "1,244"
+  },
+  {
+    "unemployment_rate": 8.79,
+    "year": 2015,
+    "state": "AZ",
+    "state_full_name": "Arizona",
+    "death_rate": 18.2,
+    "death_num": "1,276"
+  },
+  {
+    "unemployment_rate": 7.73,
+    "year": 2016,
+    "state": "AZ",
+    "state_full_name": "Arizona",
+    "death_rate": 17.7,
+    "death_num": "1,271"
+  },
+  {
+    "unemployment_rate": 6.97,
+    "year": 2014,
+    "state": "AR",
+    "state_full_name": "Arkansas",
+    "death_rate": 17.3,
+    "death_num": 515
+  },
+  {
+    "unemployment_rate": 6.02,
+    "year": 2015,
+    "state": "AR",
+    "state_full_name": "Arkansas",
+    "death_rate": 19.1,
+    "death_num": 577
+  },
+  {
+    "unemployment_rate": 4.66,
+    "year": 2016,
+    "state": "AR",
+    "state_full_name": "Arkansas",
+    "death_rate": 18.2,
+    "death_num": 555
+  },
+  {
+    "unemployment_rate": 8.82,
+    "year": 2014,
+    "state": "CA",
+    "state_full_name": "California",
+    "death_rate": 10.5,
+    "death_num": "4,214"
+  },
+  {
+    "unemployment_rate": 7.56,
+    "year": 2015,
+    "state": "CA",
+    "state_full_name": "California",
+    "death_rate": 10.3,
+    "death_num": "4,167"
+  },
+  {
+    "unemployment_rate": 6.92,
+    "year": 2016,
+    "state": "CA",
+    "state_full_name": "California",
+    "death_rate": 10.5,
+    "death_num": "4,294"
+  },
+  {
+    "unemployment_rate": 5.2,
+    "year": 2014,
+    "state": "CO",
+    "state_full_name": "Colorado",
+    "death_rate": 19.9,
+    "death_num": "1,083"
+  },
+  {
+    "unemployment_rate": 4.03,
+    "year": 2015,
+    "state": "CO",
+    "state_full_name": "Colorado",
+    "death_rate": 19.5,
+    "death_num": "1,093"
+  },
+  {
+    "unemployment_rate": 3.42,
+    "year": 2016,
+    "state": "CO",
+    "state_full_name": "Colorado",
+    "death_rate": 20.5,
+    "death_num": "1,168"
+  },
+  {
+    "unemployment_rate": 6.44,
+    "year": 2014,
+    "state": "CT",
+    "state_full_name": "Connecticut",
+    "death_rate": 9.8,
+    "death_num": 379
+  },
+  {
+    "unemployment_rate": 5.49,
+    "year": 2015,
+    "state": "CT",
+    "state_full_name": "Connecticut",
+    "death_rate": 9.9,
+    "death_num": 384
+  },
+  {
+    "unemployment_rate": 5.13,
+    "year": 2016,
+    "state": "CT",
+    "state_full_name": "Connecticut",
+    "death_rate": 10.1,
+    "death_num": 397
+  },
+  {
+    "unemployment_rate": 5.9,
+    "year": 2014,
+    "state": "DE",
+    "state_full_name": "Delaware",
+    "death_rate": 13.2,
+    "death_num": 126
+  },
+  {
+    "unemployment_rate": 5.04,
+    "year": 2015,
+    "state": "DE",
+    "state_full_name": "Delaware",
+    "death_rate": 12.6,
+    "death_num": 122
+  },
+  {
+    "unemployment_rate": 4.43,
+    "year": 2016,
+    "state": "DE",
+    "state_full_name": "Delaware",
+    "death_rate": 11.5,
+    "death_num": 119
+  },
+  {
+    "unemployment_rate": 3.77,
+    "year": 2014,
+    "state": "FL",
+    "state_full_name": "Florida",
+    "death_rate": 14.3,
+    "death_num": "3,637"
+  },
+  {
+    "unemployment_rate": 3.69,
+    "year": 2015,
+    "state": "FL",
+    "state_full_name": "Florida",
+    "death_rate": 14.2,
+    "death_num": "3,243"
+  },
+  {
+    "unemployment_rate": 3.3,
+    "year": 2016,
+    "state": "FL",
+    "state_full_name": "Florida",
+    "death_rate": 14,
+    "death_num": "3,143"
+  },
+  {
+    "unemployment_rate": 4.01,
+    "year": 2014,
+    "state": "GA",
+    "state_full_name": "Georgia",
+    "death_rate": 14.5,
+    "death_num": "1,410"
+  },
+  {
+    "unemployment_rate": 4,
+    "year": 2015,
+    "state": "GA",
+    "state_full_name": "Georgia",
+    "death_rate": 14.4,
+    "death_num": "1,420"
+  },
+  {
+    "unemployment_rate": 3.6,
+    "year": 2016,
+    "state": "GA",
+    "state_full_name": "Georgia",
+    "death_rate": 13.3,
+    "death_num": "1,409"
+  },
+  {
+    "unemployment_rate": 4.75,
+    "year": 2014,
+    "state": "HI",
+    "state_full_name": "Hawaii",
+    "death_rate": 13.8,
+    "death_num": 204
+  },
+  {
+    "unemployment_rate": 3.93,
+    "year": 2015,
+    "state": "HI",
+    "state_full_name": "Hawaii",
+    "death_rate": 13.5,
+    "death_num": 201
+  },
+  {
+    "unemployment_rate": 3.41,
+    "year": 2016,
+    "state": "HI",
+    "state_full_name": "Hawaii",
+    "death_rate": 12.1,
+    "death_num": 174
+  },
+  {
+    "unemployment_rate": 5.43,
+    "year": 2014,
+    "state": "ID",
+    "state_full_name": "Idaho",
+    "death_rate": 20,
+    "death_num": 320
+  },
+  {
+    "unemployment_rate": 4.7,
+    "year": 2015,
+    "state": "ID",
+    "state_full_name": "Idaho",
+    "death_rate": 22.1,
+    "death_num": 359
+  },
+  {
+    "unemployment_rate": 4.37,
+    "year": 2016,
+    "state": "ID",
+    "state_full_name": "Idaho",
+    "death_rate": 21.4,
+    "death_num": 351
+  },
+  {
+    "unemployment_rate": 6.95,
+    "year": 2014,
+    "state": "IL",
+    "state_full_name": "Illinois",
+    "death_rate": 10.5,
+    "death_num": "1,398"
+  },
+  {
+    "unemployment_rate": 6.16,
+    "year": 2015,
+    "state": "IL",
+    "state_full_name": "Illinois",
+    "death_rate": 10.3,
+    "death_num": "1,363"
+  },
+  {
+    "unemployment_rate": 6.28,
+    "year": 2016,
+    "state": "IL",
+    "state_full_name": "Illinois",
+    "death_rate": 10.7,
+    "death_num": "1,415"
+  },
+  {
+    "unemployment_rate": 5.96,
+    "year": 2014,
+    "state": "IN",
+    "state_full_name": "Indiana",
+    "death_rate": 14.3,
+    "death_num": 948
+  },
+  {
+    "unemployment_rate": 4.81,
+    "year": 2015,
+    "state": "IN",
+    "state_full_name": "Indiana",
+    "death_rate": 14.4,
+    "death_num": 960
+  },
+  {
+    "unemployment_rate": 4.62,
+    "year": 2016,
+    "state": "IN",
+    "state_full_name": "Indiana",
+    "death_rate": 15.4,
+    "death_num": "1,034"
+  },
+  {
+    "unemployment_rate": 4.21,
+    "year": 2014,
+    "state": "IA",
+    "state_full_name": "Iowa",
+    "death_rate": 12.9,
+    "death_num": 407
+  },
+  {
+    "unemployment_rate": 3.68,
+    "year": 2015,
+    "state": "IA",
+    "state_full_name": "Iowa",
+    "death_rate": 13.9,
+    "death_num": 433
+  },
+  {
+    "unemployment_rate": 3.88,
+    "year": 2016,
+    "state": "IA",
+    "state_full_name": "Iowa",
+    "death_rate": 14.6,
+    "death_num": 451
+  },
+  {
+    "unemployment_rate": 4.02,
+    "year": 2014,
+    "state": "KS",
+    "state_full_name": "Kansas",
+    "death_rate": 15.7,
+    "death_num": 455
+  },
+  {
+    "unemployment_rate": 3.96,
+    "year": 2015,
+    "state": "KS",
+    "state_full_name": "Kansas",
+    "death_rate": 16.3,
+    "death_num": 477
+  },
+  {
+    "unemployment_rate": 3.98,
+    "year": 2016,
+    "state": "KS",
+    "state_full_name": "Kansas",
+    "death_rate": 17.9,
+    "death_num": 514
+  },
+  {
+    "unemployment_rate": 7.57,
+    "year": 2014,
+    "state": "KY",
+    "state_full_name": "Kentucky",
+    "death_rate": 15.9,
+    "death_num": 727
+  },
+  {
+    "unemployment_rate": 6.51,
+    "year": 2015,
+    "state": "KY",
+    "state_full_name": "Kentucky",
+    "death_rate": 17.1,
+    "death_num": 776
+  },
+  {
+    "unemployment_rate": 6.36,
+    "year": 2016,
+    "state": "KY",
+    "state_full_name": "Kentucky",
+    "death_rate": 16.8,
+    "death_num": 756
+  },
+  {
+    "unemployment_rate": 7.24,
+    "year": 2014,
+    "state": "LA",
+    "state_full_name": "Louisiana",
+    "death_rate": 14.3,
+    "death_num": 679
+  },
+  {
+    "unemployment_rate": 7.37,
+    "year": 2015,
+    "state": "LA",
+    "state_full_name": "Louisiana",
+    "death_rate": 15.2,
+    "death_num": 722
+  },
+  {
+    "unemployment_rate": 7.22,
+    "year": 2016,
+    "state": "LA",
+    "state_full_name": "Louisiana",
+    "death_rate": 14.2,
+    "death_num": 677
+  },
+  {
+    "unemployment_rate": 6.24,
+    "year": 2014,
+    "state": "ME",
+    "state_full_name": "Maine",
+    "death_rate": 15.7,
+    "death_num": 220
+  },
+  {
+    "unemployment_rate": 4.92,
+    "year": 2015,
+    "state": "ME",
+    "state_full_name": "Maine",
+    "death_rate": 16,
+    "death_num": 235
+  },
+  {
+    "unemployment_rate": 4.24,
+    "year": 2016,
+    "state": "ME",
+    "state_full_name": "Maine",
+    "death_rate": 15.9,
+    "death_num": 226
+  },
+  {
+    "unemployment_rate": 6.44,
+    "year": 2014,
+    "state": "MD",
+    "state_full_name": "Maryland",
+    "death_rate": 9.8,
+    "death_num": 606
+  },
+  {
+    "unemployment_rate": 5.78,
+    "year": 2015,
+    "state": "MD",
+    "state_full_name": "Maryland",
+    "death_rate": 8.8,
+    "death_num": 553
+  },
+  {
+    "unemployment_rate": 4.91,
+    "year": 2016,
+    "state": "MD",
+    "state_full_name": "Maryland",
+    "death_rate": 9.4,
+    "death_num": 586
+  },
+  {
+    "unemployment_rate": 6.23,
+    "year": 2014,
+    "state": "MA",
+    "state_full_name": "Massachusetts",
+    "death_rate": 8.2,
+    "death_num": 596
+  },
+  {
+    "unemployment_rate": 5.43,
+    "year": 2015,
+    "state": "MA",
+    "state_full_name": "Massachusetts",
+    "death_rate": 8.9,
+    "death_num": 642
+  },
+  {
+    "unemployment_rate": 4.14,
+    "year": 2016,
+    "state": "MA",
+    "state_full_name": "Massachusetts",
+    "death_rate": 8.8,
+    "death_num": 631
+  },
+  {
+    "unemployment_rate": 8.33,
+    "year": 2014,
+    "state": "MI",
+    "state_full_name": "Michigan",
+    "death_rate": 13.3,
+    "death_num": "1,354"
+  },
+  {
+    "unemployment_rate": 5.94,
+    "year": 2015,
+    "state": "MI",
+    "state_full_name": "Michigan",
+    "death_rate": 13.8,
+    "death_num": "1,410"
+  },
+  {
+    "unemployment_rate": 5.57,
+    "year": 2016,
+    "state": "MI",
+    "state_full_name": "Michigan",
+    "death_rate": 13.3,
+    "death_num": "1,364"
+  },
+  {
+    "unemployment_rate": 4.76,
+    "year": 2014,
+    "state": "MN",
+    "state_full_name": "Minnesota",
+    "death_rate": 12.2,
+    "death_num": 686
+  },
+  {
+    "unemployment_rate": 4.35,
+    "year": 2015,
+    "state": "MN",
+    "state_full_name": "Minnesota",
+    "death_rate": 13.2,
+    "death_num": 730
+  },
+  {
+    "unemployment_rate": 4.57,
+    "year": 2016,
+    "state": "MN",
+    "state_full_name": "Minnesota",
+    "death_rate": 13.2,
+    "death_num": 745
+  },
+  {
+    "unemployment_rate": 8.97,
+    "year": 2014,
+    "state": "MS",
+    "state_full_name": "Mississippi",
+    "death_rate": 12.5,
+    "death_num": 380
+  },
+  {
+    "unemployment_rate": 7.72,
+    "year": 2015,
+    "state": "MS",
+    "state_full_name": "Mississippi",
+    "death_rate": 14,
+    "death_num": 431
+  },
+  {
+    "unemployment_rate": 6.99,
+    "year": 2016,
+    "state": "MS",
+    "state_full_name": "Mississippi",
+    "death_rate": 12.7,
+    "death_num": 383
+  },
+  {
+    "unemployment_rate": 6.55,
+    "year": 2014,
+    "state": "MO",
+    "state_full_name": "Missouri",
+    "death_rate": 16.3,
+    "death_num": "1,017"
+  },
+  {
+    "unemployment_rate": 5.42,
+    "year": 2015,
+    "state": "MO",
+    "state_full_name": "Missouri",
+    "death_rate": 17.1,
+    "death_num": "1,052"
+  },
+  {
+    "unemployment_rate": 5.08,
+    "year": 2016,
+    "state": "MO",
+    "state_full_name": "Missouri",
+    "death_rate": 18.4,
+    "death_num": "1,133"
+  },
+  {
+    "unemployment_rate": 4.68,
+    "year": 2014,
+    "state": "MT",
+    "state_full_name": "Montana",
+    "death_rate": 23.9,
+    "death_num": 251
+  },
+  {
+    "unemployment_rate": 4.29,
+    "year": 2015,
+    "state": "MT",
+    "state_full_name": "Montana",
+    "death_rate": 25.3,
+    "death_num": 272
+  },
+  {
+    "unemployment_rate": 4.42,
+    "year": 2016,
+    "state": "MT",
+    "state_full_name": "Montana",
+    "death_rate": 25.9,
+    "death_num": 267
+  },
+  {
+    "unemployment_rate": 3.09,
+    "year": 2014,
+    "state": "NE",
+    "state_full_name": "Nebraska",
+    "death_rate": 13.4,
+    "death_num": 251
+  },
+  {
+    "unemployment_rate": 2.88,
+    "year": 2015,
+    "state": "NE",
+    "state_full_name": "Nebraska",
+    "death_rate": 11.7,
+    "death_num": 223
+  },
+  {
+    "unemployment_rate": 3.09,
+    "year": 2016,
+    "state": "NE",
+    "state_full_name": "Nebraska",
+    "death_rate": 13.1,
+    "death_num": 246
+  },
+  {
+    "unemployment_rate": 7.6,
+    "year": 2014,
+    "state": "NV",
+    "state_full_name": "Nevada",
+    "death_rate": 19.6,
+    "death_num": 573
+  },
+  {
+    "unemployment_rate": 6.86,
+    "year": 2015,
+    "state": "NV",
+    "state_full_name": "Nevada",
+    "death_rate": 18.4,
+    "death_num": 558
+  },
+  {
+    "unemployment_rate": 5.95,
+    "year": 2016,
+    "state": "NV",
+    "state_full_name": "Nevada",
+    "death_rate": 21.4,
+    "death_num": 650
+  },
+  {
+    "unemployment_rate": 4.23,
+    "year": 2014,
+    "state": "NH",
+    "state_full_name": "New Hampshire",
+    "death_rate": 17.8,
+    "death_num": 247
+  },
+  {
+    "unemployment_rate": 3.42,
+    "year": 2015,
+    "state": "NH",
+    "state_full_name": "New Hampshire",
+    "death_rate": 16.5,
+    "death_num": 228
+  },
+  {
+    "unemployment_rate": 2.76,
+    "year": 2016,
+    "state": "NH",
+    "state_full_name": "New Hampshire",
+    "death_rate": 17.2,
+    "death_num": 244
+  },
+  {
+    "unemployment_rate": 7.2,
+    "year": 2014,
+    "state": "NJ",
+    "state_full_name": "New Jersey",
+    "death_rate": 8.3,
+    "death_num": 786
+  },
+  {
+    "unemployment_rate": 6.05,
+    "year": 2015,
+    "state": "NJ",
+    "state_full_name": "New Jersey",
+    "death_rate": 8.3,
+    "death_num": 789
+  },
+  {
+    "unemployment_rate": 5.23,
+    "year": 2016,
+    "state": "NJ",
+    "state_full_name": "New Jersey",
+    "death_rate": 7.2,
+    "death_num": 687
+  },
+  {
+    "unemployment_rate": 7.33,
+    "year": 2014,
+    "state": "NM",
+    "state_full_name": "New Mexico",
+    "death_rate": 21,
+    "death_num": 449
+  },
+  {
+    "unemployment_rate": 7.24,
+    "year": 2015,
+    "state": "NM",
+    "state_full_name": "New Mexico",
+    "death_rate": 23.7,
+    "death_num": 500
+  },
+  {
+    "unemployment_rate": 6.93,
+    "year": 2016,
+    "state": "NM",
+    "state_full_name": "New Mexico",
+    "death_rate": 22.5,
+    "death_num": 471
+  },
+  {
+    "unemployment_rate": 6.31,
+    "year": 2014,
+    "state": "NY",
+    "state_full_name": "New York",
+    "death_rate": 8.1,
+    "death_num": "1,700"
+  },
+  {
+    "unemployment_rate": 5.58,
+    "year": 2015,
+    "state": "NY",
+    "state_full_name": "New York",
+    "death_rate": 7.8,
+    "death_num": "1,652"
+  },
+  {
+    "unemployment_rate": 5,
+    "year": 2016,
+    "state": "NY",
+    "state_full_name": "New York",
+    "death_rate": 8.1,
+    "death_num": "1,679"
+  },
+  {
+    "unemployment_rate": 7.04,
+    "year": 2014,
+    "state": "NC",
+    "state_full_name": "North Carolina",
+    "death_rate": 13,
+    "death_num": "1,351"
+  },
+  {
+    "unemployment_rate": 6.44,
+    "year": 2015,
+    "state": "NC",
+    "state_full_name": "North Carolina",
+    "death_rate": 13.4,
+    "death_num": "1,406"
+  },
+  {
+    "unemployment_rate": 5.69,
+    "year": 2016,
+    "state": "NC",
+    "state_full_name": "North Carolina",
+    "death_rate": 13,
+    "death_num": "1,373"
+  },
+  {
+    "unemployment_rate": 3.31,
+    "year": 2014,
+    "state": "ND",
+    "state_full_name": "North Dakota",
+    "death_rate": 17.8,
+    "death_num": 137
+  },
+  {
+    "unemployment_rate": 3.25,
+    "year": 2015,
+    "state": "ND",
+    "state_full_name": "North Dakota",
+    "death_rate": 17.5,
+    "death_num": 124
+  },
+  {
+    "unemployment_rate": 3.51,
+    "year": 2016,
+    "state": "ND",
+    "state_full_name": "North Dakota",
+    "death_rate": 19,
+    "death_num": 140
+  },
+  {
+    "unemployment_rate": 6.18,
+    "year": 2014,
+    "state": "OH",
+    "state_full_name": "Ohio",
+    "death_rate": 12.6,
+    "death_num": "1,491"
+  },
+  {
+    "unemployment_rate": 5.31,
+    "year": 2015,
+    "state": "OH",
+    "state_full_name": "Ohio",
+    "death_rate": 13.9,
+    "death_num": "1,650"
+  },
+  {
+    "unemployment_rate": 5.41,
+    "year": 2016,
+    "state": "OH",
+    "state_full_name": "Ohio",
+    "death_rate": 14.2,
+    "death_num": "1,707"
+  },
+  {
+    "unemployment_rate": 4.82,
+    "year": 2014,
+    "state": "OK",
+    "state_full_name": "Oklahoma",
+    "death_rate": 19.1,
+    "death_num": 736
+  },
+  {
+    "unemployment_rate": 4.75,
+    "year": 2015,
+    "state": "OK",
+    "state_full_name": "Oklahoma",
+    "death_rate": 20.3,
+    "death_num": 790
+  },
+  {
+    "unemployment_rate": 5.3,
+    "year": 2016,
+    "state": "OK",
+    "state_full_name": "Oklahoma",
+    "death_rate": 21,
+    "death_num": 822
+  },
+  {
+    "unemployment_rate": 7.86,
+    "year": 2014,
+    "state": "OR",
+    "state_full_name": "Oregon",
+    "death_rate": 18.6,
+    "death_num": 782
+  },
+  {
+    "unemployment_rate": 6.55,
+    "year": 2015,
+    "state": "OR",
+    "state_full_name": "Oregon",
+    "death_rate": 17.8,
+    "death_num": 762
+  },
+  {
+    "unemployment_rate": 5.65,
+    "year": 2016,
+    "state": "OR",
+    "state_full_name": "Oregon",
+    "death_rate": 17.8,
+    "death_num": 772
+  },
+  {
+    "unemployment_rate": 6.11,
+    "year": 2014,
+    "state": "PA",
+    "state_full_name": "Pennsylvania",
+    "death_rate": 13.3,
+    "death_num": "1,817"
+  },
+  {
+    "unemployment_rate": 5.47,
+    "year": 2015,
+    "state": "PA",
+    "state_full_name": "Pennsylvania",
+    "death_rate": 14,
+    "death_num": "1,894"
+  },
+  {
+    "unemployment_rate": 5.9,
+    "year": 2016,
+    "state": "PA",
+    "state_full_name": "Pennsylvania",
+    "death_rate": 14.7,
+    "death_num": "1,970"
+  },
+  {
+    "unemployment_rate": 7.13,
+    "year": 2014,
+    "state": "RI",
+    "state_full_name": "Rhode Island",
+    "death_rate": 10.1,
+    "death_num": 113
+  },
+  {
+    "unemployment_rate": 5.53,
+    "year": 2015,
+    "state": "RI",
+    "state_full_name": "Rhode Island",
+    "death_rate": 11.2,
+    "death_num": 127
+  },
+  {
+    "unemployment_rate": 4.95,
+    "year": 2016,
+    "state": "RI",
+    "state_full_name": "Rhode Island",
+    "death_rate": 11.2,
+    "death_num": 126
+  },
+  {
+    "unemployment_rate": 7.59,
+    "year": 2014,
+    "state": "SC",
+    "state_full_name": "South Carolina",
+    "death_rate": 15.2,
+    "death_num": 753
+  },
+  {
+    "unemployment_rate": 7.04,
+    "year": 2015,
+    "state": "SC",
+    "state_full_name": "South Carolina",
+    "death_rate": 14.8,
+    "death_num": 742
+  },
+  {
+    "unemployment_rate": 5.95,
+    "year": 2016,
+    "state": "SC",
+    "state_full_name": "South Carolina",
+    "death_rate": 15.7,
+    "death_num": 815
+  },
+  {
+    "unemployment_rate": 4.03,
+    "year": 2014,
+    "state": "SD",
+    "state_full_name": "South Dakota",
+    "death_rate": 17.1,
+    "death_num": 141
+  },
+  {
+    "unemployment_rate": 3.66,
+    "year": 2015,
+    "state": "SD",
+    "state_full_name": "South Dakota",
+    "death_rate": 20.4,
+    "death_num": 173
+  },
+  {
+    "unemployment_rate": 3.2,
+    "year": 2016,
+    "state": "SD",
+    "state_full_name": "South Dakota",
+    "death_rate": 20.2,
+    "death_num": 163
+  },
+  {
+    "unemployment_rate": 7.61,
+    "year": 2014,
+    "state": "TN",
+    "state_full_name": "Tennessee",
+    "death_rate": 14.1,
+    "death_num": 948
+  },
+  {
+    "unemployment_rate": 6.74,
+    "year": 2015,
+    "state": "TN",
+    "state_full_name": "Tennessee",
+    "death_rate": 15.7,
+    "death_num": "1,068"
+  },
+  {
+    "unemployment_rate": 5.42,
+    "year": 2016,
+    "state": "TN",
+    "state_full_name": "Tennessee",
+    "death_rate": 16.3,
+    "death_num": "1,111"
+  },
+  {
+    "unemployment_rate": 4.95,
+    "year": 2014,
+    "state": "TX",
+    "state_full_name": "Texas",
+    "death_rate": 12.2,
+    "death_num": "3,254"
+  },
+  {
+    "unemployment_rate": 4.78,
+    "year": 2015,
+    "state": "TX",
+    "state_full_name": "Texas",
+    "death_rate": 12.5,
+    "death_num": "3,403"
+  },
+  {
+    "unemployment_rate": 5.1,
+    "year": 2016,
+    "state": "TX",
+    "state_full_name": "Texas",
+    "death_rate": 12.6,
+    "death_num": "3,488"
+  },
+  {
+    "unemployment_rate": 4.77,
+    "year": 2014,
+    "state": "UT",
+    "state_full_name": "Utah",
+    "death_rate": 20.5,
+    "death_num": 559
+  },
+  {
+    "unemployment_rate": 4.8,
+    "year": 2015,
+    "state": "UT",
+    "state_full_name": "Utah",
+    "death_rate": 22.4,
+    "death_num": 630
+  },
+  {
+    "unemployment_rate": 4.91,
+    "year": 2016,
+    "state": "UT",
+    "state_full_name": "Utah",
+    "death_rate": 21.8,
+    "death_num": 620
+  },
+  {
+    "unemployment_rate": 4.52,
+    "year": 2014,
+    "state": "VT",
+    "state_full_name": "Vermont",
+    "death_rate": 18.7,
+    "death_num": 124
+  },
+  {
+    "unemployment_rate": 4.21,
+    "year": 2015,
+    "state": "VT",
+    "state_full_name": "Vermont",
+    "death_rate": 14.8,
+    "death_num": 103
+  },
+  {
+    "unemployment_rate": 3.73,
+    "year": 2016,
+    "state": "VT",
+    "state_full_name": "Vermont",
+    "death_rate": 17.3,
+    "death_num": 118
+  },
+  {
+    "unemployment_rate": 6,
+    "year": 2014,
+    "state": "VA",
+    "state_full_name": "Virginia",
+    "death_rate": 12.9,
+    "death_num": "1,122"
+  },
+  {
+    "unemployment_rate": 5.14,
+    "year": 2015,
+    "state": "VA",
+    "state_full_name": "Virginia",
+    "death_rate": 12.7,
+    "death_num": "1,118"
+  },
+  {
+    "unemployment_rate": 4.63,
+    "year": 2016,
+    "state": "VA",
+    "state_full_name": "Virginia",
+    "death_rate": 13.2,
+    "death_num": "1,166"
+  },
+  {
+    "unemployment_rate": 7.41,
+    "year": 2014,
+    "state": "WA",
+    "state_full_name": "Washington",
+    "death_rate": 15.2,
+    "death_num": "1,119"
+  },
+  {
+    "unemployment_rate": 6.84,
+    "year": 2015,
+    "state": "WA",
+    "state_full_name": "Washington",
+    "death_rate": 15.4,
+    "death_num": "1,137"
+  },
+  {
+    "unemployment_rate": 6.91,
+    "year": 2016,
+    "state": "WA",
+    "state_full_name": "Washington",
+    "death_rate": 14.9,
+    "death_num": "1,141"
+  },
+  {
+    "unemployment_rate": 7.52,
+    "year": 2014,
+    "state": "WV",
+    "state_full_name": "West Virginia",
+    "death_rate": 18.1,
+    "death_num": 359
+  },
+  {
+    "unemployment_rate": 7.74,
+    "year": 2015,
+    "state": "WV",
+    "state_full_name": "West Virginia",
+    "death_rate": 17.4,
+    "death_num": 340
+  },
+  {
+    "unemployment_rate": 7.02,
+    "year": 2016,
+    "state": "WV",
+    "state_full_name": "West Virginia",
+    "death_rate": 19.3,
+    "death_num": 362
+  },
+  {
+    "unemployment_rate": 6.01,
+    "year": 2014,
+    "state": "WI",
+    "state_full_name": "Wisconsin",
+    "death_rate": 13.1,
+    "death_num": 769
+  },
+  {
+    "unemployment_rate": 5.13,
+    "year": 2015,
+    "state": "WI",
+    "state_full_name": "Wisconsin",
+    "death_rate": 14.7,
+    "death_num": 877
+  },
+  {
+    "unemployment_rate": 4.69,
+    "year": 2016,
+    "state": "WI",
+    "state_full_name": "Wisconsin",
+    "death_rate": 14.7,
+    "death_num": 866
+  },
+  {
+    "unemployment_rate": 4.12,
+    "year": 2014,
+    "state": "WY",
+    "state_full_name": "Wyoming",
+    "death_rate": 20.6,
+    "death_num": 120
+  },
+  {
+    "unemployment_rate": 4.07,
+    "year": 2015,
+    "state": "WY",
+    "state_full_name": "Wyoming",
+    "death_rate": 28,
+    "death_num": 157
+  },
+  {
+    "unemployment_rate": 4.97,
+    "year": 2016,
+    "state": "WY",
+    "state_full_name": "Wyoming",
+    "death_rate": 25.2,
+    "death_num": 144
+  }
+]

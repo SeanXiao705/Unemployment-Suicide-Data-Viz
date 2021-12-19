@@ -1,0 +1,391 @@
+{
+  "name": "average_employment_suicide",
+  "children": [
+    {
+      "name": "Average Unemployment Rate",
+      "children": [
+        {
+          "name": "Alabama",
+          "size": 7.241
+        },
+        {
+          "name": "Arizona",
+          "size": 8.665
+        },
+        {
+          "name": "Arkansas",
+          "size": 5.88
+        },
+        {
+          "name": "California",
+          "size": 7.768
+        },
+        {
+          "name": "Colorado",
+          "size": 4.214
+        },
+        {
+          "name": "Connecticut",
+          "size": 5.686
+        },
+        {
+          "name": "Delaware",
+          "size": 5.124
+        },
+        {
+          "name": "Hawaii",
+          "size": 4.031
+        },
+        {
+          "name": "Idaho",
+          "size": 4.834
+        },
+        {
+          "name": "Illinois",
+          "size": 6.463
+        },
+        {
+          "name": "Indiana",
+          "size": 5.128
+        },
+        {
+          "name": "Iowa",
+          "size": 3.92
+        },
+        {
+          "name": "Kansas",
+          "size": 3.986
+        },
+        {
+          "name": "Kentucky",
+          "size": 6.812
+        },
+        {
+          "name": "Louisiana",
+          "size": 7.281
+        },
+        {
+          "name": "Maine",
+          "size": 5.132
+        },
+        {
+          "name": "Maryland",
+          "size": 5.708
+        },
+        {
+          "name": "Massachusetts",
+          "size": 5.266
+        },
+        {
+          "name": "Michigan",
+          "size": 6.611
+        },
+        {
+          "name": "Minnesota",
+          "size": 4.561
+        },
+        {
+          "name": "Mississippi",
+          "size": 7.894
+        },
+        {
+          "name": "Missouri",
+          "size": 5.686
+        },
+        {
+          "name": "Montana",
+          "size": 4.462
+        },
+        {
+          "name": "Nebraska",
+          "size": 3.02
+        },
+        {
+          "name": "Nevada",
+          "size": 6.804
+        },
+        {
+          "name": "New Hampshire",
+          "size": 3.472
+        },
+        {
+          "name": "New Jersey",
+          "size": 6.16
+        },
+        {
+          "name": "New Mexico",
+          "size": 7.167
+        },
+        {
+          "name": "New York",
+          "size": 5.633
+        },
+        {
+          "name": "North Carolina",
+          "size": 6.39
+        },
+        {
+          "name": "North Dakota",
+          "size": 3.357
+        },
+        {
+          "name": "Ohio",
+          "size": 5.636
+        },
+        {
+          "name": "Oklahoma",
+          "size": 4.957
+        },
+        {
+          "name": "Oregon",
+          "size": 6.688
+        },
+        {
+          "name": "Pennsylvania",
+          "size": 5.829
+        },
+        {
+          "name": "Rhode Island",
+          "size": 5.867
+        },
+        {
+          "name": "South Carolina",
+          "size": 6.859
+        },
+        {
+          "name": "South Dakota",
+          "size": 3.627
+        },
+        {
+          "name": "Tennessee",
+          "size": 6.59
+        },
+        {
+          "name": "Texas",
+          "size": 4.944
+        },
+        {
+          "name": "Utah",
+          "size": 4.824
+        },
+        {
+          "name": "Vermont",
+          "size": 4.157
+        },
+        {
+          "name": "Virginia",
+          "size": 5.258
+        },
+        {
+          "name": "Washington",
+          "size": 7.052
+        },
+        {
+          "name": "West Virginia",
+          "size": 7.43
+        },
+        {
+          "name": "Wisconsin",
+          "size": 5.278
+        },
+        {
+          "name": "Wyoming",
+          "size": 4.387
+        }
+      ]
+    },
+    {
+      "name": "Average Suicide Rate",
+      "children": [
+        {
+          "name": "Alabama",
+          "size": 15.033
+        },
+        {
+          "name": "Arizona",
+          "size": 17.967
+        },
+        {
+          "name": "Arkansas",
+          "size": 18.2
+        },
+        {
+          "name": "California",
+          "size": 10.433
+        },
+        {
+          "name": "Colorado",
+          "size": 19.967
+        },
+        {
+          "name": "Connecticut",
+          "size": 9.933
+        },
+        {
+          "name": "Delaware",
+          "size": 12.433
+        },
+        {
+          "name": "Hawaii",
+          "size": 13.133
+        },
+        {
+          "name": "Idaho",
+          "size": 21.167
+        },
+        {
+          "name": "Illinois",
+          "size": 10.5
+        },
+        {
+          "name": "Indiana",
+          "size": 14.7
+        },
+        {
+          "name": "Iowa",
+          "size": 13.8
+        },
+        {
+          "name": "Kansas",
+          "size": 16.633
+        },
+        {
+          "name": "Kentucky",
+          "size": 16.6
+        },
+        {
+          "name": "Louisiana",
+          "size": 14.567
+        },
+        {
+          "name": "Maine",
+          "size": 15.867
+        },
+        {
+          "name": "Maryland",
+          "size": 9.333
+        },
+        {
+          "name": "Massachusetts",
+          "size": 8.633
+        },
+        {
+          "name": "Michigan",
+          "size": 13.467
+        },
+        {
+          "name": "Minnesota",
+          "size": 12.867
+        },
+        {
+          "name": "Mississippi",
+          "size": 13.067
+        },
+        {
+          "name": "Missouri",
+          "size": 17.267
+        },
+        {
+          "name": "Montana",
+          "size": 25.033
+        },
+        {
+          "name": "Nebraska",
+          "size": 12.733
+        },
+        {
+          "name": "Nevada",
+          "size": 19.8
+        },
+        {
+          "name": "New Hampshire",
+          "size": 17.167
+        },
+        {
+          "name": "New Jersey",
+          "size": 7.933
+        },
+        {
+          "name": "New Mexico",
+          "size": 22.4
+        },
+        {
+          "name": "New York",
+          "size": 8.0
+        },
+        {
+          "name": "North Carolina",
+          "size": 13.133
+        },
+        {
+          "name": "North Dakota",
+          "size": 18.1
+        },
+        {
+          "name": "Ohio",
+          "size": 13.567
+        },
+        {
+          "name": "Oklahoma",
+          "size": 20.133
+        },
+        {
+          "name": "Oregon",
+          "size": 18.067
+        },
+        {
+          "name": "Pennsylvania",
+          "size": 14.0
+        },
+        {
+          "name": "Rhode Island",
+          "size": 10.833
+        },
+        {
+          "name": "South Carolina",
+          "size": 15.233
+        },
+        {
+          "name": "South Dakota",
+          "size": 19.233
+        },
+        {
+          "name": "Tennessee",
+          "size": 15.367
+        },
+        {
+          "name": "Texas",
+          "size": 12.433
+        },
+        {
+          "name": "Utah",
+          "size": 21.567
+        },
+        {
+          "name": "Vermont",
+          "size": 16.933
+        },
+        {
+          "name": "Virginia",
+          "size": 12.933
+        },
+        {
+          "name": "Washington",
+          "size": 15.167
+        },
+        {
+          "name": "West Virginia",
+          "size": 18.267
+        },
+        {
+          "name": "Wisconsin",
+          "size": 14.167
+        },
+        {
+          "name": "Wyoming",
+          "size": 24.6
+        }
+      ]
+    }
+  ]
+}

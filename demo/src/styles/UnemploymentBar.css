@@ -1,0 +1,88 @@
+.axis path,
+.axis line {
+  fill: none;
+  stroke: white;
+  shape-rendering: crispEdges;
+}
+
+.axis text {
+  font-family: Courier;
+  font-size: 0.85em;
+}
+
+text {
+  font-family: Courier;
+  font-size: 0.65em;
+}
+
+div.commands {
+  font-family: Courier;
+  font-size: 0.85em;
+  font-weight: bold;
+  text-align: center;
+  cursor: default;
+  user-select: none;
+}
+
+svg {
+  display: block;
+  margin: auto;
+  background-color: #fafafa;
+}
+
+#chart1 .bar {
+  fill: #fd8d3c;
+}
+
+text.xlabel {
+  text-anchor: middle;
+}
+
+text.ylabel {
+  text-anchor: middle;
+  alignment-baseline: central;
+}
+
+text.name {
+  font-weight: bold;
+  text-anchor: middle;
+  alignment-baseline: central;
+}
+
+.sort  {
+  border-radius: 3px;
+  background-color: #eee;
+  display: inline-block;
+  cursor: default;
+}
+
+.sort,
+label {
+  font-family: Courier;
+  color: #444;
+  padding: 5px;
+  margin: 5px;
+}
+
+label {
+  vertical-align: text-bottom;
+}
+
+.filter {
+  border-radius: 3px;
+  background-color: #eee;
+  padding: 5px;
+  margin: 5px;
+  color: #444;
+  text-align: left;
+  display: inline-block;
+  cursor: default;
+}
+
+text.name {
+  font-size: 10px;
+}
+
+svg rect {
+  margin-left: 5px;
+}

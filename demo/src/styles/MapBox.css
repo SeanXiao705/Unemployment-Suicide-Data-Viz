@@ -1,0 +1,15 @@
+.MapBox_container {
+    /* position: relative; */
+    height: 600px !important;
+    width: 1000px !important;
+    display: inline-block;
+}
+
+#map {
+    /* position: relative; */
+    top: 0;
+    bottom: 0;
+    height: 600px;
+    width: 1000px;
+    display: center;
+}

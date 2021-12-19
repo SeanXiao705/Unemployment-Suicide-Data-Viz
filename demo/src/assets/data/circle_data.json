@@ -1,0 +1,117 @@
+{
+  "name": "suicide reasons",
+  "children": [
+    {
+      "name": "Health Factors",
+      "children": [
+        {
+          "name": "depression",
+          "size": 0.5
+        },
+        {
+          "name": "schizophrenia",
+          "size": 1.7
+        },
+        {
+          "name": "bipolar disorder",
+          "size": 0.8
+        },
+        {
+          "name": "substance use problems",
+          "size": 1
+        },
+        {
+          "name": "serious mental illness",
+          "size": 2
+        },
+        {
+          "name": "serious physical health conditions",
+          "size": 1
+        },
+        {
+          "name": "anxiety",
+          "size": 0.6
+        }
+      ]
+    },
+    {
+      "name": "Environmental Factors",
+      "children": [
+        {
+          "name": "divorce",
+          "size": 0.4
+        },
+        {
+          "name": "unemployment",
+          "size": 1
+        },
+        {
+          "name": "breaking relationship",
+          "size": 0.8
+        },
+        {
+          "name": "financial crisis",
+          "size": 1.1
+        },
+        {
+          "name": "social isolation",
+          "size": 1.1
+        },
+        {
+          "name": "Stigma",
+          "size": 1.1
+        },
+        {
+          "name": "gun ownership",
+          "size": 1
+        },
+        {
+          "name": "sexual abuse",
+          "size": 1.3
+        },
+        {
+          "name": "family violence",
+          "size": 0.8
+        },
+        {
+          "name": "lack of training",
+          "size": 0.3
+        },
+        {
+          "name": "lax firearms laws",
+          "size": 0.3
+        }
+      ]
+    },
+    {
+      "name": "Historical Factors",
+      "children": [
+        {
+          "name": "previous suicide attempts",
+          "size": 2
+        },
+        {
+          "name": "family history of suicide",
+          "size": 1.2
+        },
+        {
+          "name": "childhood abuse or trauma",
+          "size": 1.7
+        }
+      ]
+    },
+    {
+      "name": "Medication Factors",
+      "children": [
+        {
+          "name": "antidepressant overdose",
+          "size": 1.9
+        },
+        {
+          "name": "drug misuse",
+          "size": 2
+        }
+      ]
+    }
+  ]
+}
